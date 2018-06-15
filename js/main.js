@@ -1,6 +1,6 @@
 var iceCream;
-iceCream = ["mint chocolate chip", " salted caramel", " cookies&cream"];
-console.log("My top three favorite ice cream flavors are: ", iceCream);
+iceCream = ["mint chocolate chip", "salted caramel", "cookies&cream"];
+console.log("My Top Three Ice Cream Flavors: ", iceCream);
 
-iceCream.push(" vanilla");
-console.log("My top four favorite ice cream flavors include: ", iceCream);
+iceCream.push("vanilla");
+console.log("My Top Four Ice Cream Flavors: ", iceCream);
